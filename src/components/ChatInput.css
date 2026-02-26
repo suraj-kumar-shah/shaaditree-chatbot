@@ -1,0 +1,14 @@
+
+.chat-input-container {
+  display: flex;
+  padding: 20px 0;
+  background-color: white;
+}
+
+.chat-input {
+  padding: 12px 15px;
+  border-radius: 10px;
+  border: 1px solid #ccc;
+  font-size: 15px;
+  flex-grow: 1;
+}
