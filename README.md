@@ -15,7 +15,7 @@ src/
   main.jsx       -> Entry point
 index.html       -> Root HTML file
 package.json     -> Project dependencies
-vite.config.js   -> Vite configuration
+vite.config.js   -> Vite configuration.
 ```
 
 ## ⚙️ Installation
