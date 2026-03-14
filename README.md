@@ -21,7 +21,7 @@ vite.config.js   -> Vite configuration.
 
 ## ⚙️ Installation
 
-## ⚙️ Installation
+
 
 
 Clone the repository and install dependencies.
