@@ -78,7 +78,7 @@ npm run lint
 * Vite
 * JavaScript (JSX)
 * CSS
-* ESLint
+  
 
 ## 📌 Notes
 
