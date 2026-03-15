@@ -79,21 +79,7 @@ npm run lint
 * JavaScript (JSX)
 * CSS
 
-* 
-## 🛠️ Technologies Used
 
-* React
-* Vite
-* JavaScript (JSX)
-* CSS
-
-  
-## 🛠️ Technologies Used
-
-* React
-* Vite
-* JavaScript (JSX)
-* CSS
 
 ## 📌 Notes
 
