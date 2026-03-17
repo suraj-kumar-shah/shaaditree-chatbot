@@ -3,10 +3,7 @@
 
 This project is a React application built using **Vite**.
 It provides a fast development environment for building modern web applications.
-This project is a React application built using **Vite**.
-It provides a fast development environment for building modern web applications.
-This project is a React application built using **Vite**.
-It provides a fast development environment for building modern web applications.
+
 
 ## 📂 Project Structure
 
